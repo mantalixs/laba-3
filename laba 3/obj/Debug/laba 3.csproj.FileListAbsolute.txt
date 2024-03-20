@@ -1,0 +1,9 @@
+D:\tio\laba 3\laba 3\bin\Debug\laba_3.exe
+D:\tio\laba 3\laba 3\bin\Debug\laba_3.pdb
+D:\tio\laba 3\laba 3\bin\Debug\Newtonsoft.Json.dll
+D:\tio\laba 3\laba 3\bin\Debug\Newtonsoft.Json.xml
+D:\tio\laba 3\laba 3\obj\Debug\laba 3.csproj.AssemblyReference.cache
+D:\tio\laba 3\laba 3\obj\Debug\laba 3.csproj.CoreCompileInputs.cache
+D:\tio\laba 3\laba 3\obj\Debug\laba 3.csproj.CopyComplete
+D:\tio\laba 3\laba 3\obj\Debug\laba_3.exe
+D:\tio\laba 3\laba 3\obj\Debug\laba_3.pdb
